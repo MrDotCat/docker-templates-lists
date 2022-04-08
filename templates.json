@@ -1,4 +1,6 @@
-[
+{
+  "version": "2",
+  "templates": [
   {
     "type": "container",
     "title": "Registry",
@@ -849,3 +851,4 @@
     ]
   }
 ]
+}
